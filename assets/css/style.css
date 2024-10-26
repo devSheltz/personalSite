@@ -640,7 +640,6 @@ footer{
     .project-box{
         width: 80%;
     }
-
 }
 
 /* ----- MEDIA QUERY == 540px / RESPONSIVE ----- */
@@ -658,4 +657,5 @@ footer{
     .input-field{
         width: 100%;
     }
+
 }
